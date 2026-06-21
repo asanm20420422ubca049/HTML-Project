@@ -1,1 +1,1 @@
-# HTML-Project
+Event Management HTML Project
